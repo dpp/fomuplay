@@ -58,3 +58,10 @@ Rust and Chisel/Scala examples. Additionally, the `run.sh`
 script creates a cache directory on the host so Scala/sbt
 and Rust libraries, etc. are cached between container
 invocations.
+
+## Pull Requests
+
+If you've got updates to make this container and/or scripts
+run well on OSX or Windows, please make a pull request.
+
+More broadly, Pull Requests welcome!
